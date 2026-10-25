@@ -1,0 +1,4 @@
+Hello, this is a text file example!
+My name is Nasaaie Bin Noriskamar.
+Welcome to SECJ 2013!
+I love coding
